@@ -1,0 +1,13 @@
+# Google
+keyfile.json
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+.tmp
+
+# terraform
+.terraform*
+terraform*
