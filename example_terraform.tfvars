@@ -1,0 +1,5 @@
+project               = "project-name"
+region                = "asia-northeast1"
+zone                  = "asia-northeast1-a"
+service_account_email = "service-account@project-name.iam.gserviceaccount.com"
+user_email            = "user-name@gmail.com"
